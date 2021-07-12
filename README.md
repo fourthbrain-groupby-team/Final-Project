@@ -5,7 +5,7 @@ Groupby is an e-commerce startup that aims to create highly converting and relev
 
 ## Jupyter Notebooks
  - [Conversion](notebooks/groupby_user_conversion.ipynb)
- - [Recommendation](notebooks/Groupby_Recommendation.ipynb)
+ - [Recommendation](notebooks/personalization.ipynb)
 
 ## Report
 [Final Report](https://docs.google.com/document/d/1Rgrm_3H_oNII9hq-eFp8l4Qr4BZIz8e7F-oq3LIw5xo/edit?usp=sharing)
